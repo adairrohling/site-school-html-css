@@ -1,1 +1,1 @@
-# site-school-html-css - 2
+# site-school-html-css
